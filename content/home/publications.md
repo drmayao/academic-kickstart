@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "Journals"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
