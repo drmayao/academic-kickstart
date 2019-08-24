@@ -66,8 +66,16 @@ subtitle = ""
  css_class = ""
 +++
 
-sdfsdfdf
+Yao Ma and Junmin Wang, “Integrated Power Management and Aftertreatment System Control for Hybrid Electric Vehicles with Road Grade Preview,” IEEE Transactions on Vehicular Technology, Vol. 66, Issue 12, pp. 10935-10945, 2017 (DOI:10.1109/TVT.2017.2763587).
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+Yao Ma and Junmin Wang, “Control of Aged Automotive Selective Catalytic Reduction Systems for Consistent Performances,” Journal of the Franklin Institute, Vol. 354, Issue 18, pp. 8094-8116, 2017 (DOI: 10.1016/j.jfranklin.2017.10.003).
+Yao Ma and Junmin Wang, “Observer-based Estimation of Aging Condition for
+Selective Catalytic Reduction Systems in Vehicle Applications,” ASME Transactions
+Journal of Dynamic Systems, Measurement and Control, Vol. 139, No. 2, 021002 (9
+pages), 2017 (DOI: 10.1115/1.4034508).
+Yao Ma and Junmin Wang, “Sliding-mode Control of Automotive Selective Catalytic
+Reduction Systems with State Estimation,” Proceedings of the Institution of
+Mechanical Engineers, Part D: Journal of Automobile Engineering, 2019
+Yao Ma and Junmin Wang, “Predictive Control for NOx Emission Reductions in Diesel
+Engine Vehicle Platoon Application,” IEEE Transactions on Vehicular Technology,
+2019
