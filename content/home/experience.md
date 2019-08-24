@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,28 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "The University of Texas at Austin"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Austin, Texas"
+  date_start = "2018-08-03"
+  date_end = "2019-05-26"
+  description = """
 
-  [[experience]]
-    title = "CEO"
-    company = "GenCoin"
-    company_url = ""
-    location = "California"
-    date_start = "2017-01-01"
-    date_end = ""
-    description = """
-    Responsibilities include:
+  * Connected Autonomous Vehicle for efficiency/mobility improvement of transportation system
+  * Emission reduction and fuel economy with vehicle connectivity and driver characteristics
+  * High fidelity catalyst modeling and advance control for emission reduction
+  """
 
-    * Analysing
-    * Modelling
-    * Deploying
-    """
-
+[[experience]]
+  title = "Assistant Professor"
+  company = "Texas Tech University"
+  company_url = ""
+  location = "Lubbock, Texas"
+  date_start = "2019-08-26"
+  date_end = ""
+  description = """Teaching ME 4334 Control of Dynamic Systems, 49 Students
+  """
 
 +++
