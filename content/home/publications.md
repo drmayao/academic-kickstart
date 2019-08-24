@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Journals"
+subtitle = "Journal Publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -65,9 +65,6 @@ subtitle = "Journals"
  # CSS class.
  css_class = ""
 +++
-
-Journal Publications
-
 Yao Ma and Junmin Wang, “Predictive Control for NOx Emission Reductions in Diesel Engine Vehicle Platoon Application,” IEEE Transactions on Vehicular Technology (in press), 2019 (DOI: 10.1109/TVT.2019.2914062).
 
 Yao Ma and Junmin Wang, “Sliding-mode Control of Automotive Selective Catalytic Reduction Systems with State Estimation,” Journal of Automobile Engineering, Proceedings of the Institution of Mechanical Engineers, Part D (in press), 2019.
@@ -77,9 +74,11 @@ Yao Ma and Junmin Wang, “Integrated Power Management and Aftertreatment System
 Yao Ma and Junmin Wang, “Control of Aged Automotive Selective Catalytic Reduction Systems for Consistent Performances,” Journal of the Franklin Institute, Vol. 354, Issue 18, pp. 8094-8116, 2017 (DOI: 10.1016/j.jfranklin.2017.10.003).
 
 Yao Ma and Junmin Wang, “Observer-based Estimation of Aging Condition for Selective Catalytic Reduction Systems in Vehicle Applications,” ASME Transactions Journal of Dynamic Systems, Measurement and Control, Vol. 139, No. 2, 021002 (9pages), 2017 (DOI: 10.1115/1.4034508).
++++
 
-Conference Proceedings
+subtitle = "Conference Proceedings"
 
++++
 Yao Ma and Junmin Wang, “A Predictive Control Method for Automotive
 Selective Catalytic Reduction Systems,” Proceedings of the 2019 American Control
 Conference, 2019.
@@ -107,3 +106,4 @@ Proceedings of the 2016 American Control Conference, pp. 4187-4192, 2016.
 Yao Ma and Junmin Wang, “Model-based Selective Catalytic Reduction Systems
 Aging Estimation,” Proceedings of the 2016 IEEE International Conference on
 Advanced Intelligent Mechatronics, pp. 1521-1526, 2016.
++++
