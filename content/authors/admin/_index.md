@@ -41,9 +41,9 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
-  icon pack: fas
+  icon_pack: fas
   link: 'mailto:yao.ma@ttu.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
   icon_pack: fab
