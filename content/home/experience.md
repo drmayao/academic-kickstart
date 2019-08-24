@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-26"
   description = """
 
+
   * Connected Autonomous Vehicle for efficiency/mobility improvement of transportation system
   * Emission reduction and fuel economy with vehicle connectivity and driver characteristics
   * High fidelity catalyst modeling and advance control for emission reduction
@@ -40,5 +41,20 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Teaching ME 4334 Control of Dynamic Systems, 49 Students
   """
+
+  [[experience]]
+    title = "Graduate Research Associate"
+    company = "The Ohio State University"
+    company_url = ""
+    location = "Columbus, Ohio"
+    date_start = "2014-08-19"
+    date_end = "2018-06-30"
+    description = """
+
+
+    * Experimental research on Diesel Engine modeling and control
+    * Optimization and control of hybrid vehicle power management system
+    * Evaluation of emission and fuel economy performance in regulation test cycle
+    """
 
 +++
