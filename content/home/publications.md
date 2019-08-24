@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[Journal Publications]
+{Journal Publications}
 
 5. Yao Ma and Junmin Wang, “Predictive Control for NOx Emission Reductions in Diesel Engine Vehicle Platoon Application,”
  IEEE Transactions on Vehicular Technology (in press), 2019 (DOI: 10.1109/TVT.2019.2914062).
@@ -83,7 +83,7 @@ Journal of the Franklin Institute, Vol. 354, Issue 18, pp. 8094-8116, 2017 (DOI:
 1. Yao Ma and Junmin Wang, “Observer-based Estimation of Aging Condition for Selective Catalytic Reduction Systems in Vehicle Applications,”
 ASME Transactions Journal of Dynamic Systems, Measurement and Control, Vol. 139, No. 2, 021002 (9pages), 2017 (DOI: 10.1115/1.4034508).
 
-[Conference Proceedings]
+{Conference Proceedings}
 
 7. Yao Ma and Junmin Wang, “A Predictive Control Method for Automotive
 Selective Catalytic Reduction Systems,” Proceedings of the 2019 American Control
