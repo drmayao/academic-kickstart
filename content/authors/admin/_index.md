@@ -69,4 +69,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Yao Ma is an assistant professor of mechanical engineering at Texas Tech University. His research interests include Connected vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles. He is the founding director of Mobility Automation Lab.
+Yao Ma joined the department of mechanical engineering at Texas Tech University in August, 2019. He leads Mobility Automation Lab to develop control and modeling approaches for a wide range of autonomous systems. His current research interests include: Connected vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
