@@ -66,7 +66,7 @@ address = "Mechanical Engineering North 201, Texas Tech University, Lubbock, Tex
 office_hours = """Monday 10:50 to 12:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
