@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yao Ma
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Texas Tech University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  My research interests focus on control and modeling of intelligent vehicle systems for improvement of efficiency, mobility, and safety.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Connected and Autonomous Vehicle
+- Intelligent Vehicle-Traffic Systems
+- Vehicle Powertrain and Dynamics Control
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Mechanical Engineering
+    institution: The University of Texas at Austin
+    year: 2019
+  - course: MSc in Electrical Engineering
+    institution: North Carolina State University
+    year: 2014
+  - course: BEng in Control Science and Engineering
+    institution: Harbin Institute of Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -62,7 +62,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yao Ma is an assistant professor of mechanical engineering at Texas Tech University. His research interests include Connected vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles. He is the founding director of Mobility Automation Lab.
