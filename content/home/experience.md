@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Austin, Texas"
   date_start = "2018-08-03"
   date_end = "2019-05-26"
-  description = """
-
-
-  * Connected Autonomous Vehicle for efficiency/mobility improvement of transportation system
-  * Emission reduction and fuel economy with vehicle connectivity and driver characteristics
-  * High fidelity catalyst modeling and advance control for emission reduction
-  """
+  description = """Ph.D. Candidate at Walker Department of Mechanical Engineering, Cockrell School of Engineering"""
 
 [[experience]]
   title = "Assistant Professor"
@@ -49,12 +43,16 @@ date_format = "Jan 2006"
     location = "Columbus, Ohio"
     date_start = "2014-08-19"
     date_end = "2018-06-30"
-    description = """
+    description = """Graduate student at Department of Mechanical and Aerospace Engineering"""
 
-
-    * Experimental research on Diesel Engine modeling and control
-    * Optimization and control of hybrid vehicle power management system
-    * Evaluation of emission and fuel economy performance in regulation test cycle
-    """
+    [[experience]]
+      title = "Electrical Engineer"
+      company = "Mohu Consumer Electronics"
+      company_url = ""
+      location = "Raleigh, North Carolina"
+      date_start = "2013-12-09"
+      date_end = "2014-08-10"
+      description = """Analog Circuit Design
+      """
 
 +++
