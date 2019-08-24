@@ -29,7 +29,7 @@ education:
     institution: Texas Tech University
     year: present
   - course: MSc in Computer Science
-    institution: Texas A&M University at Corpus Christi
+    institution: Texas A&M University-Corpus Christi
     year: 2019
   - course: BSc in Mechatronics
     institution: Mevlana University (Selcuk University)
