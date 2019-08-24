@@ -15,7 +15,7 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: Texas Tech University
-  url: ""
+  url: "https://www.depts.ttu.edu/me/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
