@@ -24,9 +24,11 @@ date_format = "Jan 2006"
   location = "Austin, Texas"
   date_start = "2018-08-03"
   date_end = "2019-05-26"
-  description = """Ph.D. Candidate at Walker Department of Mechanical Engineering, Cockrell School of Engineering"""
-                """Teaching Assistant of ME340 Mechatronics, Spring 2019"""
-                """Recipient of Advance Teaching Preparation Certificate"""
+  description = """Ph.D. Candidate at Walker Department of Mechanical Engineering, Cockrell School of Engineering
+
+                Teaching Assistant of ME340 Mechatronics, Spring 2019
+
+                Recipient of Advance Teaching Preparation Certificate"""
 
 [[experience]]
   title = "Assistant Professor"
@@ -44,7 +46,11 @@ date_format = "Jan 2006"
     location = "Columbus, Ohio"
     date_start = "2014-08-19"
     date_end = "2018-06-30"
-    description = """Graduate student at Department of Mechanical and Aerospace Engineering"""
+    description = """Ph.D. student at Department of Mechanical and Aerospace Engineering
+
+                  Guest Lecturer of ME3260 System Dynamics and Vibrations, Fall 2017
+
+                  Instructor of College of Engineering, Diversity, Outreach and Inclusion Office, Women in Engineering and Minority Engineering Program"""     
 
     [[experience]]
       title = "Electrical Engineer"
