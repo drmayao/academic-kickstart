@@ -51,7 +51,6 @@ date_format = "Jan 2006"
     description = """
     Highlights:
 
-* Ph.D. student at Department of Mechanical and Aerospace Engineering
 * Guest Lecturer of ME3260 System Dynamics and Vibrations, Fall 2017
 * Instructor of College of Engineering, Diversity, Outreach and Inclusion Office, Women in Engineering and Minority Engineering Program
 * Recipient of American Control Conference Student Travel Grant, 2016 & 2018
