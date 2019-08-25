@@ -51,4 +51,6 @@ email: ""
 user_groups:
 - Principal Investigator
 ---
-Yao Ma joined the department of mechanical engineering at Texas Tech University in August, 2019. He leads Mobility Automation Lab to develop control and modeling approaches for a wide range of autonomous systems. His current research interests include: Connected and autonomous vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
+Welcome to the Mobility Automation Lab (MALAB) at Texas Tech University Whitacre College of Engineering. Our research interests focus on developing control and modeling methods for a wide range of autonomous mobility systems. Current topics include: Connected and autonomous vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
+<br>
+Yao Ma joined the department of mechanical engineering at Texas Tech University as a tenure-track assistant professor in August, 2019. Before he joined TTU, he graduated from the University of Texas at Austin with a Ph.D. in mechanical engineering in May, 2019.
