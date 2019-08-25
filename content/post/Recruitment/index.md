@@ -8,9 +8,9 @@ tags:
 - Brief
 categories:
 - News
-date: "2016-04-20T00:00:00Z"
+date: "2019-08-25T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
