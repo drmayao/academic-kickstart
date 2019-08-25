@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Austin, Texas"
   date_start = "2018-08-03"
   date_end = "2019-05-26"
-  description = """
+  description = """<br>
 
 * Ph.D. Candidate at Walker Department of Mechanical Engineering, Cockrell School of Engineering
 * Teaching Assistant of ME340 Mechatronics, Spring 2019
