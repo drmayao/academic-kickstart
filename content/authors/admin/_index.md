@@ -16,7 +16,8 @@ role: Assistant Professor
 organizations:
 - name: Texas Tech University
   url: "https://www.depts.ttu.edu/me/"
-
+- name: Texas Tech University
+  url: "https://www.depts.ttu.edu/me/"
 # Short bio (displayed in user profile at end of posts)
 bio:  My research interests focus on control and modeling of intelligent vehicle systems for improvement of efficiency, mobility, and safety.
 
