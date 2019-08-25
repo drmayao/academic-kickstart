@@ -65,26 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{Conference Proceedings}
-
-7. Yao Ma and Junmin Wang, “A Predictive Control Method for Automotive Selective Catalytic Reduction Systems,”
-Proceedings of the 2019 American Control Conference, 2019.
-
-6. Pingen Chen and Yao Ma, “Model Predictive NOx Emission Control for a Biodiesel Engine Coupled with A Urea-based Selective Catalytic Reduction System.”
-SAE Technical Paper, SAE World Congress, 2019.
-
-5. Yao Ma and Junmin Wang, “A Study on Economical Vehicle Platooning Strategy in Urban Driving Scenarios,”
-Proceedings of the 2018 IEEE Vehicle Power and Propulsion Conference, 2018.
-
-4. Yao Ma and Junmin Wang, “Model Based Control of Automotive Selective Catalytic Reduction Systems with Road Grade Preview,”
-Proceedings of the 2018 American Control Conference, 2018.
-
-3. Yao Ma and Junmin Wang, “Sliding-mode Control of Ammonia Coverage Ratio for Automotive Selective Catalytic Reduction Systems,”
-Proceedings of the 2018 American Control Conference, 2018.
-
-2. Yao Ma and Junmin Wang, “A Control Method for Consistent Performance ofAutomotive Selective Catalytic Reduction Systems under Variant Aging Conditions,”
-Proceedings of the 2016 American Control Conference, pp. 4187-4192, 2016.
-
-1. Yao Ma and Junmin Wang, “Model-based Selective Catalytic Reduction Systems Aging Estimation,”
-Proceedings of the 2016 IEEE International Conference on Advanced Intelligent Mechatronics, pp. 1521-1526, 2016.
