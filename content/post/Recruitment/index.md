@@ -1,5 +1,5 @@
 ---
-title: 'Mobility Automation Laboratory seeks talents!'
+title: 'We seek talents!'
 subtitle: 'Looking for prospective student researchers'
 summary: MALAB invites prospective students to participate in research activities
 authors:

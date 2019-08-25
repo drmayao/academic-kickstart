@@ -1,5 +1,5 @@
 ---
-title: 'Mobility Automation Laboratory is established!'
+title: 'Mobility Automation Laboratory (MALAB) is established!'
 subtitle: 'Dr. Ma joined Texas Tech University in fall 2019'
 summary: Dr. Ma joined Texas Tech University and established Mobility Automation Laboratory
 authors:
