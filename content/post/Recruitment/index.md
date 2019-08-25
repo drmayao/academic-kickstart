@@ -10,7 +10,7 @@ categories:
 - News
 date: "2019-08-25T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Jerene Ang**](https://www.humanresourcesonline.net/five-reasons-you-should-be-recruiting-in-december/)'
+  caption: 'Image credit: [**University Career Center**](https://www.depts.ttu.edu/careercenter/employers/hireredraiders.php)'
   focal_point: ""
   preview_only: false
 
