@@ -18,13 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research/Teaching Assistant"
   company = "The University of Texas at Austin"
   company_url = ""
   location = "Austin, Texas"
   date_start = "2018-08-03"
   date_end = "2019-05-26"
   description = """Ph.D. Candidate at Walker Department of Mechanical Engineering, Cockrell School of Engineering"""
+                """Teaching Assistant of ME340 Mechatronics, Spring 2019"""
+                """Recipient of Advance Teaching Preparation Certificate"""
 
 [[experience]]
   title = "Assistant Professor"
@@ -33,8 +35,7 @@ date_format = "Jan 2006"
   location = "Lubbock, Texas"
   date_start = "2019-08-26"
   date_end = ""
-  description = """Teaching ME 4334 Control of Dynamic Systems, 49 Students
-  """
+  description = """Teaching ME 4334 Control of Dynamic Systems, Fall 2019"""
 
   [[experience]]
     title = "Graduate Research Associate"
