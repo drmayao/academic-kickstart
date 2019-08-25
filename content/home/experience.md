@@ -47,8 +47,8 @@ date_format = "Jan 2006"
     location = "Columbus, Ohio"
     date_start = "2014-08-19"
     date_end = "2018-06-30"
-    description = """
-    
+    description = """<br>
+
 * Ph.D. student at Department of Mechanical and Aerospace Engineering
 * Guest Lecturer of ME3260 System Dynamics and Vibrations, Fall 2017
 * Instructor of College of Engineering, Diversity, Outreach and Inclusion Office, Women in Engineering and Minority Engineering Program
