@@ -4,7 +4,7 @@ authors:
 - Pingen Chen
 - admin
 date: "2019-04-15T00:00:00Z"
-doi: "10.4271/2019-01-0734."
+doi: "10.4271/2019-01-0734"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
