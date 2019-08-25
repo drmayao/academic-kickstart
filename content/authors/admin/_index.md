@@ -14,10 +14,12 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Texas Tech University
+- name: Mobility Automation Laboratory
+  url: "https://www.ma-yao.com/"
+- name: Department of Mechanical Engineering
   url: "https://www.depts.ttu.edu/me/"
 - name: Texas Tech University
-  url: "https://www.depts.ttu.edu/me/"
+  url: "https://www.ttu.edu/"
 # Short bio (displayed in user profile at end of posts)
 bio:  My research interests focus on control and modeling of intelligent vehicle systems for improvement of efficiency, mobility, and safety.
 
@@ -49,5 +51,4 @@ email: ""
 user_groups:
 - Principal Investigator
 ---
-
 Yao Ma joined the department of mechanical engineering at Texas Tech University in August, 2019. He leads Mobility Automation Lab to develop control and modeling approaches for a wide range of autonomous systems. His current research interests include: Connected and autonomous vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
