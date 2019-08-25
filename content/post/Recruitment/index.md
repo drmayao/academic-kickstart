@@ -5,12 +5,12 @@ summary: MALAB invites prospective students to participate in research activitie
 authors:
 - admin
 tags:
-- Brief
+- Recruiting
 categories:
 - News
 date: "2019-08-25T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
