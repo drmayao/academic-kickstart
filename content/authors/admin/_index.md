@@ -46,6 +46,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
