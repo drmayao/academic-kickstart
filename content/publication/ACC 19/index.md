@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *American Control Conference*
-publication_short: In *ACC*
+publication: In *Proceedings of the 2019 American Control Conference*
+publication_short: In *American Control Conference*
 
 abstract: This paper presents a predictive control method for automotive Selective Catalytic Reduction (SCR) systems to minimize Nitrogen Oxides (NOx) and ammonia (NH3) emission. SCR systems have been indispensable in Diesel-powered vehicles to reduce the toxic emissions. To balance the tradeoff between NOx and NH3, the ammonia storage level of SCR needs to be critically controlled. The proposed control method consists of an ammonia coverage ratio tracking controller and a predictive reference ammonia coverage ratio generator. The reference generator will utilize predictive information, enabled by growing vehicle connectivity and intelligence, to determine an optimal level of ammonia coverage ratio within the preview horizon. The tracking controller will then drive ammonia coverage ratio to a desired level. The effectiveness of proposed design approach is demonstrated through simulation studies with experimentally acquired data.
 
@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf:
 url_code:
 url_dataset:
