@@ -63,7 +63,7 @@ phone = "806-834-8113"
 address = "Mechanical Engineering North 201, Texas Tech University, Lubbock, Texas, 79409, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:50 to 12:00 or by appointment"""
+office_hours = """Monday 10:50 to 12:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "mailto:yao.ma@ttu.edu"
@@ -97,7 +97,7 @@ map = 2
 map_api_key = ""
 latitude = "33.588515"
 longitude = "-101.874637"
-zoom = 20
+zoom = 15
 
 ############################
 ## Plugins                ##
