@@ -23,6 +23,7 @@ bio:  My research interests focus on control and modeling of intelligent vehicle
 interests:
 - Connected and Autonomous Vehicle
 - Intelligent Vehicle-Traffic Systems
+- Driver Behaviors Characterization
 - Vehicle Powertrain and Dynamics Control
 
 education:
@@ -48,4 +49,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Yao Ma joined the department of mechanical engineering at Texas Tech University in August, 2019. He leads Mobility Automation Lab to develop control and modeling approaches for a wide range of autonomous systems. His current research interests include: Connected vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
+Yao Ma joined the department of mechanical engineering at Texas Tech University in August, 2019. He leads Mobility Automation Lab to develop control and modeling approaches for a wide range of autonomous systems. His current research interests include: Connected and autonomous vehicle systems control for energy consumption and emission reductions; Intelligent Vehicle-Traffic Systems; Advanced Diesel Aftertreatment System Modeling, Controls, and Diagnostics; Integrated Powertrain and Aftertreatment System Control for Clean Vehicles.
