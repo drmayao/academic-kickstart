@@ -32,7 +32,11 @@ projects: []
 ---
 
 **We are inviting highly motivated students to participate in MALAB research activities.**
-  - One fully funded Ph.D. position is available now. Candidate is expected to have a solid control background as well as good communication skills. Hands-on experience is highly valued. The position covers 100% tuition and fees with highly competitive compensation.
-  - Master and undergraduate students with strong coding and implementation skills are encouraged to apply for student researchers position, which may be eligible for hourly stipends commensurate with experience.
-  - Visiting students and researchers are welcomed as always!
+
+- One fully funded Ph.D. position is available now. Candidate is expected to have a solid control background as well as good communication skills. Hands-on experience is highly valued. The position covers 100% tuition and fees with highly competitive compensation.
+
+- Master and undergraduate students with strong coding and implementation skills are encouraged to apply for student researchers position, which may be eligible for hourly stipends commensurate with experience.
+
+- Visiting students and researchers are welcomed as always!
+
 **Candidates please send your inquisition with a brief CV to Dr. Ma via email.**
