@@ -1,11 +1,11 @@
 ---
 title: 'Mobility Automation Laboratory is established!'
-subtitle: 'Dr. Ma joined Texas Tech University in fall, 2019'
+subtitle: 'Dr. Ma joined Texas Tech University in fall 2019'
 summary: Dr. Ma joined Texas Tech University and established Mobility Automation Laboratory
 authors:
 - admin
 tags:
-- Academic
+- Brief
 categories:
 - News
 date: "2016-04-20T00:00:00Z"
