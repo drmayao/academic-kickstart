@@ -1,7 +1,7 @@
 ---
 title: 'Mobility Automation Laboratory seeks talents!'
 subtitle: 'Looking for prospective student researchers'
-summary: MALAB invites prospective students to participate in research
+summary: MALAB invites prospective students to participate in research activities
 authors:
 - admin
 tags:
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Department of Mechanical Engineering**](https://www.depts.ttu.edu/me/)'
+  caption: 'Image credit: [**Jerene Ang**](https://www.humanresourcesonline.net/five-reasons-you-should-be-recruiting-in-december/)'
   focal_point: ""
   preview_only: false
 
@@ -31,5 +31,8 @@ image:
 projects: []
 ---
 
-**We are inviting highly motivated students to participate in MALAB research activities.
-- One fully funded Ph.D. position is available now. Candidate is expected to have a solid control background as well as good communication skills. Hands-on experience is highly valued.**
+**We are inviting highly motivated students to participate in MALAB research activities.**
+- One fully funded Ph.D. position is available now. Candidate is expected to have a solid control background as well as good communication skills. Hands-on experience is highly valued. The position covers 100% tuition and fees with highly competitive compensation.
+- Master and undergraduate students with strong coding and implementation skills are encouraged to apply for student researchers position, which may be eligible for hourly stipends commensurate with experience.
+- Visiting students and researchers are welcomed as always!
+**Candidates please send your inquisition with a brief CV to Dr. Ma via email.**
