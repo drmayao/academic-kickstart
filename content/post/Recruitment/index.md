@@ -39,4 +39,4 @@ projects: []
 
 - Visiting students and researchers are welcomed as always!
 
-**Candidates please send your inquisition with a brief CV to Dr. Ma via email.**
+Candidates please send your inquisition with a brief CV to Dr. Ma via [email](mailto:yao.ma@ttu.edu).
