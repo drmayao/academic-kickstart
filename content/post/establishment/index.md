@@ -1,7 +1,7 @@
 ---
-title: 'Mobility Automation Laboratory (MALAB) is established!'
+title: 'Mobility Automation Laboratory (MA LAB) is established!'
 subtitle: 'Dr. Ma joined Texas Tech University in fall 2019'
-summary: Dr. Ma joined Texas Tech University and established Mobility Automation Laboratory (MALAB)
+summary: Dr. Ma joined Texas Tech University and established Mobility Automation Laboratory (MA LAB)
 authors:
 - admin
 tags:
@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-**Dr. Ma has joined the department of mechanical engineering at Texas Tech University as the fall semester starts in less than a week. Mobility Automation Laboratory, aka MALAB, has been established thanks to the strong support from the department.**
+**Dr. Ma has joined the department of mechanical engineering at Texas Tech University as the fall semester starts in less than a week. Mobility Automation Laboratory, aka MA LAB, has been established thanks to the strong support from the department.**
