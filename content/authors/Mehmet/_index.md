@@ -31,7 +31,7 @@ education:
   - course: MSc in Computer Science
     institution: Texas A&M University-Corpus Christi
     year: 2019
-  - course: BSc in Mechatronics
+  - course: BSc in Mechatronics Engineering
     institution: Mevlana University (Selcuk University)
     year: 2016
 
