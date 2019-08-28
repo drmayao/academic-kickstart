@@ -1,7 +1,7 @@
 ---
 title: 'We seek talents!'
 subtitle: 'Looking for prospective student researchers'
-summary: MALAB invites prospective students to participate in various research activities this fall
+summary: MALab invites prospective students to participate in various research activities this fall
 authors:
 - admin
 tags:
@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-**We are inviting highly motivated students to participate in MALAB research activities.**
+**We are inviting highly motivated students to participate in MALab research activities.**
 
 - One fully funded Ph.D. position is available now. Starting date is spring 2020/fall 2020. Candidate is expected to have a solid control background as well as language (English) proficiency. Hands-on experience is highly valued. The position covers 100% tuition and fees with highly competitive compensation.
 
