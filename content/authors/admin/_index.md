@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Mobility Automation Laboratory
-  url: "https://www.ma-yao.com/"
+  url: ""
 - name: Department of Mechanical Engineering
   url: "https://www.depts.ttu.edu/me/faculty/yao_ma/index.php"
 - name: Texas Tech University
