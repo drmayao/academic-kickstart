@@ -14,8 +14,6 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Mobility Automation Laboratory
-  url: "https://www.ma-yao.com/authors/mehmet/"
 - name: Department of Mechanical Engineering
   url: "https://www.depts.ttu.edu/me/"
 - name: Texas Tech University
