@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: [**SplitShire from Pixabay**](https://pixabay.com/photos/driving-car-automobile-driver-407181/)'
   focal_point: Smart
 
 #links:
