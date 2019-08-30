@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Coming soon!"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -74,4 +74,3 @@ subtitle = "Coming soon!"
  # CSS class.
  css_class = ""
 +++
-eferfef
