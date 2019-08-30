@@ -30,4 +30,4 @@ image:
 slides: ""
 ---
 
-The increasing autonomy and connectivity of ground vehicles have...
+The rapidly increasing autonomy and connectivity of ground vehicles have shown great promise to transform the mobility demand in the near future. Meanwhile,

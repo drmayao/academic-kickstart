@@ -29,3 +29,5 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The dedicated powertrain, emission and battery management systems control design has been well documented in both industrial applications and academic literatures. Now with the growing intelligence and environment awareness,
