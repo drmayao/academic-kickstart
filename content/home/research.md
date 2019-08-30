@@ -10,7 +10,7 @@ subtitle = "Coming soon!"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "research"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -74,3 +74,4 @@ subtitle = "Coming soon!"
  # CSS class.
  css_class = ""
 +++
+eferfef
