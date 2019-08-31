@@ -1,5 +1,5 @@
 +++
-# A Projects section created with the Portfolio widget.
+# A Research section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -9,7 +9,7 @@ title = "Research"
 subtitle = "Updating Soon!"
 
 [content]
-  # Page type to display. E.g. project.
+  # Page type to display. E.g. research.
   page_type = "research"
 
   # Filter toolbar (optional).
