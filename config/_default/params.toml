@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Mobility Automation Laboratory: Yao Ma Research Group"
+description = "Mobility Automation Lab: Yao Ma Research Group"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "logo.png"
