@@ -13,7 +13,7 @@ baseurl = "www.ma-yao.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "copyright &copy {year} Yao Ma All Rights Reserved."
+copyright = "copyright &copy; {year} Yao Ma All Rights Reserved."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-146895482-1"
