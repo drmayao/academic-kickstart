@@ -16,7 +16,7 @@ baseurl = "www.ma-yao.com/"
 copyright = "copyright &copy {year} Yao Ma All Rights Reserved."
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-146895482-1"
 
 ############################
 ## Advanced options below ##
