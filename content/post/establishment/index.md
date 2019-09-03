@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-Dr. Ma has joined the department of mechanical engineering at Texas Tech University as the fall semester starts in less than a week. Mobility Automation Laboratory, aka MALab, has been established thanks to the strong support from the department and university.
+Dr. Ma has joined the department of mechanical engineering at Texas Tech University as the fall semester starts in less than a week. Mobility Automation Laboratory, aka **MALab**, has been established thanks to the strong support from the department and university.
