@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """<br>
 
-* Instructor, ME 4334 Control of Dynamic Systems, 2019 Fall
+* Instructor, ME 4334 Control of Dynamic Systems, Fall 2019
 * Director, Mobility Automation Laboratory
   """
 
