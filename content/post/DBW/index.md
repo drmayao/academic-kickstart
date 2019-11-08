@@ -33,7 +33,7 @@ projects: []
 
 **Updates on MALab facility and equipment**
 
-Working with our industrial partner, MALab recently just brought a full-Customizable Drive-By-Wire Hybrid Ford Fusion to the campus of Texas Tech University. The vehicle is equipped with advanced controllers and algorithms to achieve closed-loop vehicle dynamics control. Meanwhile, the open-access of CAN bus provide convenient and real-time measurement of vehicle states including throttle, speed, acceleration, fuel economy, etc.
+Working with our industrial partner, MALab recently just brought a fully-Customizable Drive-By-Wire Hybrid Ford Fusion to the campus of Texas Tech University. The vehicle is equipped with advanced controllers and algorithms to achieve closed-loop vehicle dynamics control. Meanwhile, the open-access of CAN bus provide convenient and real-time measurement of vehicle states including throttle, speed, acceleration, fuel economy, etc.
 
 The vehicle platform will be used primarily to support our research efforts on vehicle system control and driver study. It will also open to prospective undergraduate and graduate students at Whitacre College of Engineering, Texas Tech University.
 
