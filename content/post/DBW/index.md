@@ -1,14 +1,14 @@
 ---
-title: 'We seek talents!'
-subtitle: 'Looking for prospective student researchers'
-summary: MALab invites prospective students to participate in various research activities this fall
+title: 'MALab Acquired a Fully-Customizable Drive-By-Wire Platform'
+subtitle: 'Advanced vehicle platform for research and education'
+summary: A major research & education platform for advanced vehicle system control and driver study at MALab
 authors:
 - admin
 tags:
-- Recruiting
+- Acquisition
 categories:
 - News
-date: "2019-08-25T00:00:00Z"
+date: "2019-11-08T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: true
 draft: false
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**University Career Center**](https://www.depts.ttu.edu/careercenter/employers/hireredraiders.php)'
+  caption: 'DBW Vehicle Platform @ MALab'
   focal_point: ""
   preview_only: false
 
@@ -31,12 +31,10 @@ image:
 projects: []
 ---
 
-**We are inviting highly motivated students to participate in MALab research activities.**
+**Updates on MALab facility and equipment**
 
-- One fully funded Ph.D. position is available now. Starting date is spring 2020/fall 2020. Candidate is expected to have a solid control background as well as language (English) proficiency. Hands-on experience is highly valued. The position covers 100% tuition and fees with highly competitive compensation.
+Working with our industrial partner, MALab recently just brought a full-Customizable Drive-By-Wire Hybrid Ford Fusion to the campus of Texas Tech University. The vehicle is equipped with advanced controllers and algorithms to achieve closed-loop vehicle dynamics control. Meanwhile, the open-access of CAN bus provide convenient and real-time measurement of vehicle states including throttle, speed, acceleration, fuel economy, etc.
 
-- Master and undergraduate students with strong coding and implementation skills are encouraged to apply for student researchers position, which may be eligible for hourly stipends commensurate with experience.
+The vehicle platform will be used primarily to support our research efforts on vehicle system control and driver study. It will also open to prospective undergraduate and graduate students at Whitacre College of Engineering, Texas Tech University.
 
-- Visiting students and researchers are welcomed as always!
-
-Candidates please send your inquisition with a brief CV to Dr. Ma via [email](mailto:yao.ma@ttu.edu).
+Interested students with proper expertise (Mechanical Engineering, Electrical Engineering, Computer Science, etc.) please contact Dr. Ma via [email](mailto:yao.ma@ttu.edu).
