@@ -38,7 +38,11 @@ date_format = "Jan 2006"
   location = "Lubbock, Texas"
   date_start = "2019-08-26"
   date_end = ""
-  description = """Teaching ME 4334 Control of Dynamic Systems, Fall 2019"""
+  description = """<br>
+
+* Instructor, ME 4334 Control of Dynamic Systems, 2019 Fall
+* Director, Mobility Automation Laboratory
+  """
 
   [[experience]]
     title = "Graduate Research Associate"
@@ -62,7 +66,10 @@ date_format = "Jan 2006"
       location = "Raleigh, North Carolina"
       date_start = "2013-12-09"
       date_end = "2014-08-10"
-      description = """Analog Circuit Design
+      description = """<br>
+
+* Analog Circuit Design
+* Product Development
       """
 
 +++
