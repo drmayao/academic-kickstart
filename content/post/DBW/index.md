@@ -31,12 +31,12 @@ image:
 projects: []
 ---
 
-**Updates on MALab facility and equipment**
+**MALab facility and equipment**
 
-Working with our industrial partner, MALab recently just brought a Fully-Customizable Drive-By-Wire Hybrid Ford Fusion to the campus of Texas Tech University. The vehicle is equipped with advanced controllers and algorithms to achieve closed-loop vehicle dynamics control. Meanwhile, the open-access of customized CAN bus provide real-time measurement of vehicle states including throttle, speed, acceleration, fuel economy, etc.
+Working with our industrial partner, MALab recently just brought a Fully-Customizable Drive-By-Wire Hybrid Ford Fusion to the campus of Texas Tech University. The vehicle is equipped with advanced controllers and algorithms to achieve closed-loop vehicle dynamics control. Meanwhile, the open-access of customized CAN bus provides real-time measurement of vehicle states including throttle, speed, acceleration, fuel economy, etc.
 
-The vehicle platform will be used primarily to support our research efforts on vehicle system control and driver study. It will also open to prospective undergraduate and graduate students at Whitacre College of Engineering, Texas Tech University.
+We have also acquired a fast-prototyping real-time simulation platform for algorithm development and validation under various traffic scenarios. The high-performance computing machine allows us to test control designs in a high-fidelity simulation environment before deploying them to the vehicle. Together with the DBW vehicle, we provide a complete suite of research facilities to pursue cutting edge technology for the improvement of vehicle performance in energy, mobility, and safety.
 
 {{< figure src="https://www.dspace.com/_clickr/cfml/index.cfm?src=../../../../../../../files/png5/scalexio_labbox_01_1400x788px_1811061.png&width=1175" lightbox="true" >}}
 
-Interested students with proper expertise (Mechanical Engineering, Electrical Engineering, Computer Science, etc.) please contact Dr. Ma via [email](mailto:yao.ma@ttu.edu).
+The facilities at MALab will be used primarily to support our research efforts on vehicle system control and driver study. It will also open to prospective undergraduate and graduate students at Whitacre College of Engineering, Texas Tech University. Interested students with proper expertise (Mechanical Engineering, Electrical Engineering, Computer Science, etc.) please contact Dr. Ma via [email](mailto:yao.ma@ttu.edu).
