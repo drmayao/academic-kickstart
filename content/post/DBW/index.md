@@ -37,4 +37,6 @@ Working with our industrial partner, MALab recently just brought a Fully-Customi
 
 The vehicle platform will be used primarily to support our research efforts on vehicle system control and driver study. It will also open to prospective undergraduate and graduate students at Whitacre College of Engineering, Texas Tech University.
 
+{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" lightbox="true" >}}
+
 Interested students with proper expertise (Mechanical Engineering, Electrical Engineering, Computer Science, etc.) please contact Dr. Ma via [email](mailto:yao.ma@ttu.edu).
