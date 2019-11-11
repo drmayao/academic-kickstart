@@ -5,7 +5,7 @@ summary: A major research & education platform for advanced vehicle system contr
 authors:
 - admin
 tags:
-- Acquisition
+- Brief
 categories:
 - News
 date: "2019-11-08T00:00:00Z"
