@@ -23,6 +23,10 @@ organizations:
 bio:
 
 interests:
+- Connected and Autonomous Vehicle
+- Drivers Modelling and Analysis
+- Image Processing
+- Mobile Robot Path Planning
 
 
 education:
