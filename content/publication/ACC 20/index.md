@@ -3,7 +3,7 @@ title: "A Predictive Control Design with Speed Previewing Information for Vehicl
 authors:
 - Mehmet
 - admin
-date: "2019-07-09T00:00:00Z"
+date: "2020-07-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2020 American Control Conference*

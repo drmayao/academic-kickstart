@@ -4,7 +4,7 @@ authors:
 - admin
 - Junmin Wang
 date: "2019-07-09T00:00:00Z"
-doi: ""
+doi: "10.23919/ACC.2019.8814808"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
