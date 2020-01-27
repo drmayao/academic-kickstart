@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc Student in Mechanical Engineering
     institution: Texas Tech University
-    year:
+    year: 2018-present
 
 
 
