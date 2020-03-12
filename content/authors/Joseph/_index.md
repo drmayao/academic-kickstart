@@ -31,10 +31,10 @@ education:
     institution: Texas Tech University
     year: 2019-present
 
-    social:
-        - icon: envelope
-          icon_pack: fas
-          link: 'mailto:Abishek-Joseph.Rocque@ttu.edu'  # For a direct email link, use "mailto:test@example.org".
+social:
+    - icon: envelope
+      icon_pack: fas
+      link: 'mailto:Abishek-Joseph.Rocque@ttu.edu'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

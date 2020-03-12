@@ -41,10 +41,10 @@ education:
     institution: Mevlana University (Selcuk University)
     year: 2016
 
-  social:
-      - icon: envelope
-        icon_pack: fas
-        link: 'mailto:Mehmet.Ozkan@ttu.edu'  # For a direct email link, use "mailto:test@example.org".
+social:
+    - icon: envelope
+      icon_pack: fas
+      link: 'mailto:Mehmet.Ozkan@ttu.edu'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
