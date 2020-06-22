@@ -1,5 +1,5 @@
 ---
-title: 'Incoming Project on Vehicle Efficiency and alternative Energy'
+title: 'Incoming project on vehicle efficiency and alternative energy'
 subtitle: 'Our proposal is funded by TTU Alternate Energy Research Initiative'
 summary:
 authors:
