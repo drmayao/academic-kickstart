@@ -1,5 +1,5 @@
 ---
-title: 'Incoming Project on Vehicle Efficiency and Connectivity'
+title: 'Incoming Project on Vehicle Efficiency and alternative Energy'
 subtitle: 'Our proposal is funded by TTU Alternate Energy Research Initiative'
 summary:
 authors:
@@ -31,5 +31,5 @@ image:
 projects: []
 ---
 
-Our recent proposal has been funded by Alternate Energy Research Initiative from College of Engineering in the amount of $11,333.
+Our recent proposal has been funded by Alternate Energy Research Initiative from College of Engineering.
 This project focuses on improving the energy efficiency and reducing emissions of the automotive and transportation systems through modeling, control, and optimization of ground vehicles powered by traditional fossil fuel, battery, and combinations of other alternative energy sources.
