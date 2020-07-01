@@ -30,5 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-First year Ph.D. student Mehmet Ozkan at MALab presented our recent work entitled [A Predictive Control Design with Speed Previewing Information for Vehicle Fuel Efficiency Improvement](https://www.ma-yao.com/publication/acc-20/) during the **2020 American Control Conference**.
-This marks the first student paper from MALab since established in August, 2019.
+First year Ph.D. student Mehmet Ozkan at MALab presented our recent work entitled [A Predictive Control Design with Speed Previewing Information for Vehicle Fuel Efficiency Improvement](https://www.ma-yao.com/publication/acc-20/) during the **2020 American Control Conference**. This marks the first student paper from MALab since established in August, 2019.
