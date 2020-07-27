@@ -8,7 +8,7 @@ tags:
 - Brief
 categories:
 - News
-date: "2020-07-27T00:00:00Z"
+date: "2020-07-25T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
