@@ -14,8 +14,8 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Honors College
-  url: "http://www.depts.ttu.edu/honors/"
+- name: Department of Mechanical Engineering
+  url: "https://www.depts.ttu.edu/me/"
 - name: Texas Tech University
   url: "https://www.ttu.edu/"
 
