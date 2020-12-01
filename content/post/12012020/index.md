@@ -18,9 +18,9 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: ''
-  focal_point: ""
+  placement: 1
+  caption: 'Energetic Impacts Evaluation of Eco-Driving on Mixed Traffic with Driver Behavioral Diversity'
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
