@@ -4,7 +4,7 @@ authors:
 - Mehmet
 - admin
 date: "2020-10-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1115/DSCC2020-3122"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
