@@ -3,11 +3,11 @@ title: "Eco-Driving of Connected and Automated Vehicle with Preceding Driver Beh
 authors:
 - Mehmet
 - admin
-date: "2020-07-25T00:00:00Z"
-doi: ""
+date: "2021-01-01T00:00:00Z"
+doi: "https://doi.org/10.1115/1.4048108"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2020-09-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ASME Journal of Dynamic Systems, Measurement and Control (In Press)"
-publication_short: ""
+publication: "ASME Journal of Dynamic Systems, Measurement and Control"
+publication_short: "J. Dyn. Sys., Meas., Control."
 
 abstract: The development of vehicle connectivity and autonomy in ground transportation is not only able to enhance traffic safety and driving comfort as well as fuel economy. This study presents a receding-horizon optimization-based control strategy integrated with the preceding vehicle speed prediction model to achieve an eco-driving strategy for connected and automated vehicles (CAVs). In the real traffic where the CAV follows a preceding vehicle on the road, a gated recurrent unit (GRU) network is used to predict the behavior of the preceding vehicle by utilizing the historical inter-vehicle information collected through onboard sensors. Then, a nonlinear model predictive control (NMPC) algorithm is adopted for CAV to minimize the accumulated fuel consumption within the preview horizon. The NMPC approach solves the fuel-optimal speed profile of the CAV, considering a predicted short-term speed preview of the preceding vehicle. With the awareness of the preview speed conditions, the fuel consumption of the CAV is reduced by avoiding unnecessary braking and acceleration, especially during transient traffic conditions. The Pareto front framework is used to examine a trade-off between the vehicle speed prediction accuracy, computational burden, and the fuel consumption of the CAV in the proposed GRU-NMPC design. To analyze the effectiveness of the GRU-NMPC design, adaptive cruise control with constant time headway policy (ACC-CTH) is adopted as a benchmark control design. Comparison results show significant fuel economy improvement of the proposed design and expose possible fuel benefits from vehicle autonomy and sensor fusion technology.
 
