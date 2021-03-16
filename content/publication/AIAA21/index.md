@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2021 AIAA AVIATION Forum and Exposition*
-publication_short: In *2021 AIAA AVIATION*
+publication_short: In *AIAA AVIATION*
 
 abstract: This paper presents an initial concept and design methodology for unmanned vehicles for aerial and ground operation. Modern commercial and military missions require completion of both ground and aerial tasks, with unmanned ground-aerial vehicles (UGAVs) capable of performing in both modes. The design of a UGAV inherently involves tradeoff decisions with respect to different performance criteria, such as range and efficiency. This work presents a UGAV with a blended wing body (BWB)aircraft structure, detachable wings, and multipurpose wheels for ground travel. A three step framework is introduced to design key parameters of the system to maximize performance metrics, and is applied to an example system for validation. The results of the case studies show the performance tradeoffs introduced by variation of the design parameters, such as battery pack size and controller gains.
 
