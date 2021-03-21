@@ -60,13 +60,13 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yao.ma@ttu.edu"
 phone = "806-834-8113"
-address = "Office: Mechanical Engineering North 201, Lab: Mechanical Engineering North 144, Texas Tech University, Lubbock, Texas, 79409, USA"
+address = "Mechanical Engineering North 201, Texas Tech University, Lubbock, Texas, 79409, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Wednesday 10:50 to 12:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "mailto:yao.ma@ttu.edu"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
