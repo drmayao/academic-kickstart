@@ -4,7 +4,7 @@ authors:
 - Mehmet
 - admin
 date: "2021-05-30T00:00:00Z"
-doi: "arXiv:2103.14705"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf:
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2103/2103.14705.pdf
 url_code:
 url_dataset:
 url_poster:
