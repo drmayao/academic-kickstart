@@ -30,7 +30,7 @@ education:
   courses:
   - course: Undergraduate Student in Mechanical Engineering
     institution: Texas Tech University
-    year: present
+    year:
 
 social:
     - icon: envelope
