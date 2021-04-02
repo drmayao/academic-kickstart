@@ -15,9 +15,9 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Department of Mechanical Engineering
-  url:
+  url: "https://www.depts.ttu.edu/me/"
 - name: Texas Tech University
-  url:
+  url: "https://www.ttu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
