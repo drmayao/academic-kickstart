@@ -20,7 +20,7 @@ organizations:
   url: "https://www.ttu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Joseph joins A2mac1 as Production Assistant Manager/Benchmarking Systems Engineer after graduation
 
 interests:
 
