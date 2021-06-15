@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc Student in Mechanical Engineering
     institution: Texas Tech University
-    year: 2019-present
+    year: 2019-2021
 
 social:
     - icon: envelope
@@ -42,5 +42,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
