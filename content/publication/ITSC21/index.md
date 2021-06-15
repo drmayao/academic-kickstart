@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 24th IEEE Intelligent Transportation Systems Conference*
-publication_short: In *ITSC 2021*
+publication_short: In *IEEE Intelligent Transportation Systems Conference*
 
 abstract: This paper proposes a fuel-economical distributed model predictive control design (Eco-DMPC) for a homogenous heavy-duty truck platoon. The proposed control strategy integrates a fuel-optimal control strategy for the leader truck with a distributed formation control for the following trucks in the heavy-duty truck platoon. The fuel-optimal control strategy is implemented by a nonlinear model predictive control (NMPC) design with an instantaneous fuel consumption model. The proposed fuel-optimal control strategy utilizes the preview information of the preceding traffic to achieve the fuel-economical speed planning by avoiding energy-inefficient maneuvers, particularly under transient traffic conditions. The distributed formation control is designed with a serial distributed model predictive control (DMPC) strategy with guaranteed local and string stability. In the DMPC strategy, each following truck acquires the future predicted state information of its predecessor through vehicle connectivity and then applies local optimal control to maintain constant spacing. Simulation studies are conducted to investigate the fuel economy performance of the proposed control strategy and to validate the local and string stability of the platoon under a realistic traffic scenario. Compared with a human-operated platoon and a benchmark formation-controlled platoon, the proposed Eco-DMPC significantly improves the fuel economy and road utilization.
 
