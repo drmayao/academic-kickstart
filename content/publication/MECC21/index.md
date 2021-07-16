@@ -2,6 +2,7 @@
 title: "Inverse Reinforcement Learning Based Stochastic Driver Behavior Learning"
 authors:
 - Mehmet
+- Joseph
 - admin
 date: "2021-10-24T00:00:00Z"
 doi: ""
