@@ -5,7 +5,7 @@ authors:
 - Donald J. Docimo
 - Victor Maldonado
 date: "2021-08-02T00:00:00Z"
-doi: ""
+doi: "10.2514/6.2021-3194"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
