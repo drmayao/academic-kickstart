@@ -25,7 +25,7 @@ bio:  My research interests focus on control and modeling of intelligent vehicle
 
 interests:
 - Connected and Autonomous Vehicle
-- Hybrid Intelligent Transportation Systems
+- Intelligent Transportation Systems
 - Driver Behaviors Modeling and Analysis
 - Vehicle Propulsion and Dynamics Control
 
