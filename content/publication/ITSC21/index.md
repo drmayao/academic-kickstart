@@ -4,7 +4,7 @@ authors:
 - Mehmet
 - admin
 date: "2021-09-19T00:00:00Z"
-doi: ""
+doi: "10.1109/ITSC48978.2021.9565018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
