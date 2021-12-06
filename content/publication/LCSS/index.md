@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2112.02041
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.02041.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
