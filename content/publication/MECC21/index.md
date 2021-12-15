@@ -5,7 +5,7 @@ authors:
 - Joseph
 - admin
 date: "2021-10-24T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.ifacol.2021.11.283"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
