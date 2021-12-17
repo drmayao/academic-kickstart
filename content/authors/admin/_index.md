@@ -51,7 +51,10 @@ social:
     link: files/cv.pdf
   - icon: twitter
     icon_pack: fab
-    link: 'https://twitter.com/YMaLonghorn'  # For a direct email link, use "mailto:test@example.org".
+    link: 'https://twitter.com/YMaLonghorn'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/yao-ma-9756b584/?trk=nav_responsive_tab_profile_pic'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
