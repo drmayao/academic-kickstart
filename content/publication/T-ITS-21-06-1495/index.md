@@ -4,7 +4,7 @@ authors:
 - Mehmet
 - admin
 date: "2022-02-24T00:00:00Z"
-doi: ""
+doi: "10.1109/TITS.2022.3147719"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-27T00:00:00Z"
