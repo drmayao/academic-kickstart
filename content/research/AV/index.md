@@ -1,6 +1,6 @@
 ---
 title: Connected and Autonomous Vehicle in Mixed Traffic
-summary: Control of Connected and Autonomous Vehicle for Efficient and Sustainable Mobility
+summary:
 tags:
 - Autonomous Vehicle
 date: "2016-04-27T00:00:00Z"

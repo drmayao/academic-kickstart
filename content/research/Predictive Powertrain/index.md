@@ -1,6 +1,6 @@
 ---
 title: Predictive Propulsion and Energy Systems Control for Connected Vehicles
-summary: Predictive Control for Connected Vehicles Powertrain, Battery and Aftertreatment Systems
+summary:
 tags:
 - Predictive Control
 date: "2016-04-27T00:00:00Z"

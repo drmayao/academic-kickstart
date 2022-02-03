@@ -1,6 +1,6 @@
 ---
 title: Driver Behavior Monitoring, Characterization and Analysis
-summary: Driver-in-the-Loop Control Design for Efficiency, Safety and Mobility Improvement of Vehicle and Transportation Systems
+summary:
 tags:
 - Driver Behavior
 date: "2016-04-27T00:00:00Z"
