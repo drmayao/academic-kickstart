@@ -10,7 +10,7 @@ categories:
 - News
 date: "2022-02-04T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
