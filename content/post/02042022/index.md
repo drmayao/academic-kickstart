@@ -10,7 +10,7 @@ categories:
 - News
 date: "2022-02-04T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -18,7 +18,7 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 1
   caption: 'Image credit: [**National Science Foundation**](https://www.nsf.gov/policies/logos.jsp)'
   focal_point: ""
   preview_only: false
