@@ -1,5 +1,5 @@
 ---
-title: CRII: CPS: Human-Centric Connected and Automated Vehicles for Sustainable Mobility
+title: Human-Centric Connected and Automated Vehicles for Sustainable Mobility
 summary:
 tags:
 - Autonomous Vehicle
