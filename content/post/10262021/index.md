@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption:
+  caption: 'Image credit: [**The American Society of Mechanical Engineers**](https://community.asme.org/dynamic_systems_control/w/wiki/16127.automotive-transportation-systems-ats.aspx)'
   focal_point: ""
   preview_only: false
 
