@@ -22,9 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Independent Study
-
 
 education:
   courses:

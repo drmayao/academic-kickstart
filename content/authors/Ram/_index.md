@@ -22,12 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Mechatronics
-- Failure Analysis
-- Graphics (Auto-cad, Inventor)
-- Finite Element Analysis
-- Programming (Python, Mat-lab)
 
 
 education:
