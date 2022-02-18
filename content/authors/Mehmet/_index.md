@@ -22,11 +22,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Connected and Autonomous Vehicle
-- Drivers Modelling and Analysis
-- Image Processing
-- Mobile Robot Path Planning
+#interests:
+#- Connected and Autonomous Vehicle
+#- Drivers Modelling and Analysis
+#- Image Processing
+#- Mobile Robot Path Planning
 
 
 education:
