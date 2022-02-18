@@ -18,8 +18,8 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: 'Image credit: [**The American Society of Mechanical Engineers**](https://community.asme.org/dynamic_systems_control/w/wiki/16127.automotive-transportation-systems-ats.aspx)'
+  placement: 1
+  caption:
   focal_point: ""
   preview_only: false
 
