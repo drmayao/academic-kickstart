@@ -27,7 +27,7 @@ education:
   courses:
   - course: Undergraduate Student at Department of Computer Science
     institution: Texas Tech University
-    year: present
+    year:
 
 social:
     - icon: envelope
