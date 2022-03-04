@@ -30,6 +30,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Third-year Ph.D. candidate Mehmet Ozkan won [Doctoral Dissertation Completion Fellowship](https://www.depts.ttu.edu/gradschool/financial/DoctoralFellowships.php) awarded by **Texas Tech University Graduate School** following a merit-based university-wide competition.
-This fellowship provides a full year financial support ($29,000) for the awardee to focus exclusively on research and advance their progress towards graduation.
+Third-year Ph.D. candidate Mehmet Ozkan won [Doctoral Dissertation Completion Fellowship](https://www.depts.ttu.edu/gradschool/financial/DoctoralFellowships.php) awarded by **Texas Tech University Graduate School** , following a merit-based university-wide competition.
+This fellowship provides a full year financial support ($29,000) for the awardee to focus exclusively on research and advance progress towards graduation.
 Congratulations!
