@@ -1,5 +1,5 @@
 ---
-title: "Socially Compatible Control Design of Automated Vehicle in Mixed Traffic"
+title: "Trust-Aware Control of Automated Vehicles in Car-Following Interactions with Human Drivers"
 authors:
 - Mehmet
 - admin
@@ -7,7 +7,7 @@ date: "2022-05-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-03T00:00:00Z"
+publishDate: "2022-12-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: "2021-12-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2022 American Control Conference*
-publication_short: In *American Control Conference*
+publication: In *Proceedings of the 61th IEEE Conference on Decision and Control*
+publication_short: In *IEEE Conference on Decision and Control*
 
-abstract: In the car-following scenarios, automated vehicles (AVs) usually plan motions without considering the impacts of their actions on the following human drivers. This paper aims to leverage such impacts to plan more efficient and socially desirable AV behaviors in human-AV interactions. Specifically, we introduce a socially compatible control design for the AV that benefits mixed traffic in the car-following scenarios. The proposed design enables the altruistic AV in human-AV interaction by integrating the social value orientation from psychology into its decision-making process. The altruistic AV generates socially desirable behaviors by optimizing both its own reward and courtesy to the following human driver’s original plan in the longitudinal motion. The results show that as compared to the egoistic AV, the altruistic AV significantly avoids disrupting the following human driver’s initial plan and leads the following human driver to achieve considerably smaller car-following gap distance and time headway. Moreover, we investigated the impacts of the socially compatible control design with different altruism levels of the AV using statistical assessments. The results collectively demonstrate the significant improvement in traffic-level metrics as a result of the AV’s altruistic behaviors in human-AV interactions.
+abstract: Trust is essential for automated vehicles (AVs) to promote and sustain technology acceptance in human-dominated traffic scenarios. However, computational trust dynamic models describing the interactive relationship between the AVs and surrounding human drivers in traffic rarely exist. This paper aims to fill this gap by developing a quantitative trust dynamic model of the human driver in the car-following interaction with the AV and incorporating the proposed trust dynamic model into the AV's control design. The human driver's trust level is modeled as a plan evaluation metric that measures the explicability of the AV's plan from the human driver's perspective, and the explicability score of the AV's plan is integrated into the AV's decision-making process. With the proposed approach, trust-aware AVs generate explicable plans by optimizing both predefined plans and explicability of the plans in the car-following interactions with the following human driver. The results collectively demonstrate that the trust-aware AV can generate more explicable plans and achieve a higher trust level for the human driver compared to trust-unaware AV in human-AV interactions.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.02041.pdf
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.03385.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
