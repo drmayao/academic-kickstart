@@ -17,7 +17,7 @@ organizations:
 - name: Mobility Automation Laboratory
   url: ""
 - name: Department of Mechanical Engineering
-  url: "https://www.depts.ttu.edu/me/faculty/yao_ma/index.php"
+  url: ""
 - name: Texas Tech University
   url: "https://www.ttu.edu/"
 # Short bio (displayed in user profile at end of posts)
