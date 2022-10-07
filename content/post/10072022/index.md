@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Ph.D. student Mehmet Ozkan at MALab received ASME Dynamic Systems and Control Division Rising Star Award for our work entitled [Socially Compatible Control Design of Automated Vehicle in Mixed Traffic](https://ieeexplore.ieee.org/abstract/document/9638989) during the **2022 Modeling, Estimation, and Control Conference**. We also presented our recent paper [Inverse Resource Rational Based Stochastic Driver Behavior Model](https://arxiv.org/abs/2207.07088) at the conference. Congratulations!
+Ph.D. student Mehmet Ozkan at MALab received ASME Dynamic Systems and Control Division Rising Star Award for our work entitled [Socially Compatible Control Design of Automated Vehicle in Mixed Traffic](https://ieeexplore.ieee.org/abstract/document/9638989) during the [2022 Modeling, Estimation, and Control Conference](https://mecc2022.a2c2.org/index.html). We also presented our recent paper [Inverse Resource Rational Based Stochastic Driver Behavior Model](https://arxiv.org/abs/2207.07088) at the conference. Congratulations!
