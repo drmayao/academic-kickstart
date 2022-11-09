@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our project [CRII: CPS: Human-Centric Connected and Automated Vehicles for Sustainable Mobility](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153229&HistoricalAwards=false) has been awarded by **National Science Foundation**.
+Prof. Yao Ma attended the 12th National Science Foundation Cyber Physical Systems Principal Investigators Meeting and presented our project [CRII: CPS: Human-Centric Connected and Automated Vehicles for Sustainable Mobility](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153229&HistoricalAwards=false) at poster session. We are glad to share our work with colleagues and looking forward to future collaborations!
